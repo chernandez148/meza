@@ -16,7 +16,7 @@ function Services() {
       {
         root: null, // viewport
         rootMargin: "0px",
-        threshold: 0.5, // 0 (completely out of view) to 1 (completely in view)
+        threshold: 0.2, // 0 (completely out of view) to 1 (completely in view)
       }
     );
 
