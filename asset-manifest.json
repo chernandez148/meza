@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/meza/static/css/main.9ebd2957.css",
-    "main.js": "/meza/static/js/main.8bbadef2.js",
+    "main.js": "/meza/static/js/main.bff6d63e.js",
     "static/media/safety-bg.jpg": "/meza/static/media/safety-bg.222591c511fc4ccb1eba.jpg",
     "static/media/services-bg.jpg": "/meza/static/media/services-bg.b113e4fecc866c7ca6ca.jpg",
     "static/media/about-us-bg.png": "/meza/static/media/about-us-bg.b713a2fc424cc9625c88.png",
@@ -16,10 +16,10 @@
     "static/media/logo_meza.jpg": "/meza/static/media/logo_meza.50536db81c3683214129.jpg",
     "index.html": "/meza/index.html",
     "main.9ebd2957.css.map": "/meza/static/css/main.9ebd2957.css.map",
-    "main.8bbadef2.js.map": "/meza/static/js/main.8bbadef2.js.map"
+    "main.bff6d63e.js.map": "/meza/static/js/main.bff6d63e.js.map"
   },
   "entrypoints": [
     "static/css/main.9ebd2957.css",
-    "static/js/main.8bbadef2.js"
+    "static/js/main.bff6d63e.js"
   ]
 }
