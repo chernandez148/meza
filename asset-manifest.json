@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/meza/static/css/main.659220b1.css",
+    "main.js": "/meza/static/js/main.c546e298.js",
+    "static/media/safety-bg.jpg": "/meza/static/media/safety-bg.222591c511fc4ccb1eba.jpg",
+    "static/media/services-bg.jpg": "/meza/static/media/services-bg.b113e4fecc866c7ca6ca.jpg",
+    "static/media/about-us-bg.png": "/meza/static/media/about-us-bg.b713a2fc424cc9625c88.png",
+    "static/media/meza1.jpg": "/meza/static/media/meza1.a16f7cc588735986b009.jpg",
+    "static/media/about-header.jpg": "/meza/static/media/about-header.b7548db70cab5a79e6a6.jpg",
+    "static/media/meza2.jpg": "/meza/static/media/meza2.6274109062886ea50bb0.jpg",
+    "static/media/safety-img-2.jpg": "/meza/static/media/safety-img-2.150e996746da4125d2ea.jpg",
+    "static/media/about-img.jpg": "/meza/static/media/about-img.2a357425e2f4d8c22bb8.jpg",
+    "static/media/contact-us-bg.png": "/meza/static/media/contact-us-bg.08c679aedce2ed03b393.png",
+    "static/media/portfolio-bg.jpg": "/meza/static/media/portfolio-bg.7d77759857f7c376478f.jpg",
+    "static/media/safety-img.jpg": "/meza/static/media/safety-img.90dd771002b6ee3e5c0b.jpg",
+    "static/media/logo_meza.jpg": "/meza/static/media/logo_meza.50536db81c3683214129.jpg",
+    "index.html": "/meza/index.html",
+    "main.659220b1.css.map": "/meza/static/css/main.659220b1.css.map",
+    "main.c546e298.js.map": "/meza/static/js/main.c546e298.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.659220b1.css",
+    "static/js/main.c546e298.js"
+  ]
+}
