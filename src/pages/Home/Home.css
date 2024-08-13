@@ -1,0 +1,27 @@
+.Hero {
+}
+
+.hero-carousel {
+  position: relative;
+  display: flex;
+}
+
+.hero-slide {
+  position: absolute;
+  width: 100vw;
+  height: calc(100vh - 91px);
+  top: 0;
+  right: 0;
+  object-fit: cover;
+  transition: all 0.5s ease-in-out;
+}
+
+.hero-slide:last-child {
+  position: relative;
+}
+
+.hero-slide img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}

@@ -1,0 +1,48 @@
+.Footer {
+  background-color: #34427e;
+  color: white;
+  display: flex;
+  align-items: center;
+  padding: 1rem;
+  justify-content: space-between;
+}
+
+.footer-left {
+  display: flex;
+  flex-direction: column;
+}
+
+.email,
+.phone {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin: 0 1rem;
+}
+
+.email a,
+.phone a {
+  margin-left: 0.5rem;
+  font-size: 14px;
+}
+
+.Footer a {
+  color: white;
+  text-decoration: none;
+  margin-top: 0.5rem;
+  font-weight: 300;
+}
+
+.social-media a {
+  margin-right: 1rem;
+}
+
+@media (max-width: 676px) {
+  .Footer {
+    flex-direction: column;
+  }
+
+  .Footer p {
+    text-align: center;
+  }
+}
