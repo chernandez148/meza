@@ -11,7 +11,7 @@ function Navbar() {
       <img src={Logo} alt="Logo" />
       <ul>
         <li>
-          <Link to="/">Home</Link>
+          <Link to="/meza">Home</Link>
         </li>
         <li>
           <Link to="/about">About</Link>
