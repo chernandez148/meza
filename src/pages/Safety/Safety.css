@@ -36,6 +36,8 @@
 
 .safety-block img {
   width: 30%;
+  height: 270px;
+  object-fit: cover;
 }
 
 .safety-block ul {
