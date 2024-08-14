@@ -2,6 +2,9 @@ import React, { useEffect, useRef, useState } from "react";
 import Header from "../../components/Header/Header";
 import safetyImageOne from "../../assets/safety-img.jpg";
 import safetyImageTwo from "../../assets/safety-img-2.jpg";
+import safetyImageThree from "../../assets/safety-img-3.jpg";
+import safetyImageFour from "../../assets/safety-img-4.jpg";
+import safetyImageFive from "../../assets/safety-img-5.jpg";
 import safetyBG from "../../assets/safety-bg.jpg";
 import { Link } from "react-router-dom";
 import "./Safety.css";
@@ -115,7 +118,7 @@ function Safety() {
               </li>
             </ul>
           </div>
-          <img src={safetyImageOne} alt="Site safety measures" />
+          <img src={safetyImageThree} alt="Site safety measures" />
         </div>
         <div
           className="safety-banner"
@@ -171,13 +174,13 @@ function Safety() {
               </li>
             </ul>
           </div>
-          <img src={safetyImageOne} alt="Compliance and documentation" />
+          <img src={safetyImageFour} alt="Compliance and documentation" />
         </div>
         <div
           className="safety-block"
           style={{ top: isVisible ? 0 : "40px", opacity: isVisible ? 1 : 0 }}
         >
-          <img src={safetyImageTwo} alt="Continuous improvement" />
+          <img src={safetyImageFive} alt="Continuous improvement" />
           <div className="safety-content">
             <h4>Continuous Improvement</h4>
             <ul>
